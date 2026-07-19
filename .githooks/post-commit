@@ -1,0 +1,3 @@
+#!/bin/sh
+# post-commit hook: run notes generator for the last commit
+python3 .scripts/generate_notes.py
