@@ -44,7 +44,7 @@ class FindMinimumSumOfArrays {
         int min1Index = -1;
         int min2 = Integer.MAX_VALUE;
         int min2Index = -1;
-
+ 
         int minA = Integer.MAX_VALUE;
         int minAIndex = -1;
         int secondA = Integer.MAX_VALUE;
